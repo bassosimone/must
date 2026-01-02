@@ -3,12 +3,12 @@ module github.com/bassosimone/must
 go 1.25.5
 
 require (
+	github.com/bassosimone/iotest v0.0.0-20260102113406-350280d0bb75
 	github.com/bassosimone/runtimex v0.0.0-20251217192325-70882b9ab4d3
 	github.com/stretchr/testify v1.11.1
 )
 
 require (
-	github.com/bassosimone/iotest v0.0.0-20251230231314-d5e50af3d192 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect

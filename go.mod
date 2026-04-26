@@ -3,8 +3,8 @@ module github.com/bassosimone/must
 go 1.25.5
 
 require (
-	github.com/bassosimone/iotest v0.0.0-20260108162419-cc1a50b01693
-	github.com/bassosimone/runtimex v0.0.0-20260108162100-336f3823f6b7
+	github.com/bassosimone/iotest v0.0.0-20260426212837-fa8b1585cfa5
+	github.com/bassosimone/runtimex v0.0.0-20260426205938-f859235d82e0
 	github.com/stretchr/testify v1.11.1
 )
 
